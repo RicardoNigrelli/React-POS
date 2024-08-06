@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 123,
+      "name": "Orange",
+      "price": 2,
+      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+    },
+    {
+      "id": 131,
+      "name": "Milk",
+      "price": 5,
+      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+    },
+    {
+      "id": 135,
+      "name": "Ice Cream",
+      "price": 41,
+      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+    },
+    {
+      "id": 150,
+      "name": "Salmon",
+      "price": 10,
+      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+    },
+    {
+      "id": 160,
+      "name": "Watermelon",
+      "price": 92,
+      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+    },
+    {
+      "id": 170,
+      "name": "Potato",
+      "price": 3,
+      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+    }
+  ]
+}

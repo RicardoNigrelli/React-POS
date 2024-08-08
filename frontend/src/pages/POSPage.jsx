@@ -68,7 +68,7 @@ function POSPage() {
     content: () => componentRef.current,
   });
 
-  const handlePrint = () => {
+  const handleActions = () => {
     handleReactToPrint();
   };
 
@@ -159,7 +159,7 @@ function POSPage() {
           <div className="mt-3">
             {totalAmount !== 0 ? (
               <div>
-                <button className="btn btn-primary" onClick={handlePrint}>
+                <button className="btn btn-primary" onClick={handleActions}>
                   Generar Orden de Compra
                 </button>
               </div>

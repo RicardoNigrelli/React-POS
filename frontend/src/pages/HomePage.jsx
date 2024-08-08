@@ -9,7 +9,7 @@ function HomePage() {
         <h1>Welcome!</h1>
         <p>lorem</p>
         <Link to="/pos" className="btn btn-primary">
-          Click here to sell products!
+          Click here!
         </Link>
       </div>
     </MainLayout>

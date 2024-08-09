@@ -1,40 +1,244 @@
 {
   "products": [
     {
-      "id": 123,
-      "name": "Orange",
-      "price": 2,
-      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+      "id": 201,
+      "name": "Condensador de Refrigerante",
+      "price": 150,
+      "image": "https://unsplash.com/photos/W5m9yzrmx2M/download?force=true&w=640"
     },
     {
-      "id": 131,
-      "name": "Milk",
-      "price": 5,
-      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+      "id": 202,
+      "name": "Compresor de Refrigerante",
+      "price": 300,
+      "image": "https://unsplash.com/photos/O8N6d0bgccc/download?force=true&w=640"
     },
     {
-      "id": 135,
-      "name": "Ice Cream",
-      "price": 41,
-      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+      "id": 203,
+      "name": "Evaporador de Refrigerante",
+      "price": 220,
+      "image": "https://unsplash.com/photos/_-YHSwy6uqU/download?force=true&w=640"
     },
     {
-      "id": 150,
-      "name": "Salmon",
-      "price": 10,
-      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+      "id": 204,
+      "name": "Filtro Secador de Refrigerante",
+      "price": 75,
+      "image": "https://unsplash.com/photos/kNImJdS-fuc/download?force=true&w=640"
     },
     {
-      "id": 160,
-      "name": "Watermelon",
-      "price": 92,
-      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+      "id": 205,
+      "name": "Válvula de Expansión de Refrigerante",
+      "price": 90,
+      "image": "https://unsplash.com/photos/8n-tFa0-zt4/download?force=true&w=640"
     },
     {
-      "id": 170,
-      "name": "Potato",
-      "price": 3,
-      "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=2048x2048&w=is&k=20&c=GniaE9F5WzPEXt6saZeEs9Z2MrL67p3q-tL132c_2c4="
+      "id": 206,
+      "name": "Aceite para Compresor de Refrigerante",
+      "price": 45,
+      "image": "https://unsplash.com/photos/9H1HPoUNddQ/download?force=true&w=640"
+    },
+    {
+      "id": 207,
+      "name": "Termostato de Refrigerante",
+      "price": 30,
+      "image": "https://unsplash.com/photos/FGoEhMKxNIU/download?force=true&w=640"
+    },
+    {
+      "id": 208,
+      "name": "Ventilador de Refrigerante",
+      "price": 110,
+      "image": "https://unsplash.com/photos/HwrOQyWPCNQ/download?force=true&w=640"
+    },
+    {
+      "id": 209,
+      "name": "Motor de Ventilador de Refrigerante",
+      "price": 200,
+      "image": "https://unsplash.com/photos/1tJX1z1qN6M/download?force=true&w=640"
+    },
+    {
+      "id": 210,
+      "name": "Rejilla de Refrigerante",
+      "price": 50,
+      "image": "https://unsplash.com/photos/RpSDCHfY_jI/download?force=true&w=640"
+    },
+    {
+      "id": 211,
+      "name": "Tubo Capilar de Refrigerante",
+      "price": 25,
+      "image": "https://unsplash.com/photos/7o2AT7fzqzI/download?force=true&w=640"
+    },
+    {
+      "id": 212,
+      "name": "Interruptor de Presión de Refrigerante",
+      "price": 35,
+      "image": "https://unsplash.com/photos/pCUHqdUS29U/download?force=true&w=640"
+    },
+    {
+      "id": 213,
+      "name": "Relé de Arranque de Refrigerante",
+      "price": 40,
+      "image": "https://unsplash.com/photos/U6-b5oFl3JQ/download?force=true&w=640"
+    },
+    {
+      "id": 214,
+      "name": "Placa de Control de Refrigerante",
+      "price": 250,
+      "image": "https://unsplash.com/photos/C4G18Paw6mI/download?force=true&w=640"
+    },
+    {
+      "id": 215,
+      "name": "Sensor de Temperatura de Refrigerante",
+      "price": 60,
+      "image": "https://unsplash.com/photos/cKXko5xQaEM/download?force=true&w=640"
+    },
+    {
+      "id": 216,
+      "name": "Tubo de Cobre de Refrigerante",
+      "price": 80,
+      "image": "https://unsplash.com/photos/F74ZlVspTkc/download?force=true&w=640"
+    },
+    {
+      "id": 217,
+      "name": "Goma de Sellado de Refrigerante",
+      "price": 20,
+      "image": "https://unsplash.com/photos/8dMtfpBAgqk/download?force=true&w=640"
+    },
+    {
+      "id": 218,
+      "name": "Sensor de Humedad de Refrigerante",
+      "price": 70,
+      "image": "https://unsplash.com/photos/vBR3o0d55F4/download?force=true&w=640"
+    },
+    {
+      "id": 219,
+      "name": "Manguera de Refrigerante",
+      "price": 35,
+      "image": "https://unsplash.com/photos/3dLXEPv51Jk/download?force=true&w=640"
+    },
+    {
+      "id": 220,
+      "name": "Válvula de Solenoide de Refrigerante",
+      "price": 55,
+      "image": "https://unsplash.com/photos/VRmSkN_LAGI/download?force=true&w=640"
+    },
+    {
+      "id": 221,
+      "name": "Aislante de Tubería de Refrigerante",
+      "price": 40,
+      "image": "https://unsplash.com/photos/IoFR-QXDMn4/download?force=true&w=640"
+    },
+    {
+      "id": 222,
+      "name": "Control Remoto de Refrigerante",
+      "price": 65,
+      "image": "https://unsplash.com/photos/jJvVUASqGDs/download?force=true&w=640"
+    },
+    {
+      "id": 223,
+      "name": "Tubo Flexible de Refrigerante",
+      "price": 30,
+      "image": "https://unsplash.com/photos/O7m9sLkaO2o/download?force=true&w=640"
+    },
+    {
+      "id": 224,
+      "name": "Cable de Alimentación de Refrigerante",
+      "price": 15,
+      "image": "https://unsplash.com/photos/d14T_sVrWCs/download?force=true&w=640"
+    },
+    {
+      "id": 225,
+      "name": "Unidad de Control de Refrigerante",
+      "price": 180,
+      "image": "https://unsplash.com/photos/NhG5gix93sY/download?force=true&w=640"
+    },
+    {
+      "id": 226,
+      "name": "Refrigerante (Gas R-134a)",
+      "price": 120,
+      "image": "https://unsplash.com/photos/zG5WfjIuX4w/download?force=true&w=640"
+    },
+    {
+      "id": 227,
+      "name": "Filtro de Aire de Refrigerante",
+      "price": 25,
+      "image": "https://unsplash.com/photos/Ht8QmXTgS6s/download?force=true&w=640"
+    },
+    {
+      "id": 228,
+      "name": "Tubo de Escape de Refrigerante",
+      "price": 85,
+      "image": "https://unsplash.com/photos/LJ7f4hG2r0A/download?force=true&w=640"
+    },
+    {
+      "id": 229,
+      "name": "Panel de Control de Refrigerante",
+      "price": 160,
+      "image": "https://unsplash.com/photos/Ta1ZnNxmWwQ/download?force=true&w=640"
+    },
+    {
+      "id": 230,
+      "name": "Unidad Condensadora de Refrigerante",
+      "price": 350,
+      "image": "https://unsplash.com/photos/MNtag_eXMKw/download?force=true&w=640"
+    },
+    {
+      "id": 231,
+      "name": "Contactor de Refrigerante",
+      "price": 45,
+      "image": "https://unsplash.com/photos/Z_VZRl8dSmI/download?force=true&w=640"
+    },
+    {
+      "id": 232,
+      "name": "Electroválvula de Refrigerante",
+      "price": 65,
+      "image": "https://unsplash.com/photos/PfFngy-hMWE/download?force=true&w=640"
+    },
+    {
+      "id": 233,
+      "name": "Cerradura de Puerta de Refrigerante",
+      "price": 40,
+      "image": "https://unsplash.com/photos/zGxZcU0dyqE/download?force=true&w=640"
+    },
+    {
+      "id": 234,
+      "name": "Pies de Nivelación de Refrigerante",
+      "price": 15,
+      "image": "https://unsplash.com/photos/hWq5yovkB1w/download?force=true&w=640"
+    },
+    {
+      "id": 235,
+      "name": "Kit de Mantenimiento de Refrigerante",
+      "price": 95,
+      "image": "https://unsplash.com/photos/w72ZZ8V5HgM/download?force=true&w=640"
+    },
+    {
+      "id": 236,
+      "name": "Manómetro de Refrigerante",
+      "price": 35,
+      "image": "https://unsplash.com/photos/TiX_3qNOawE/download?force=true&w=640"
+    },
+    {
+      "id": 237,
+      "name": "Acumulador de Refrigerante",
+      "price": 55,
+      "image": "https://unsplash.com/photos/3rbWE0UlI5k/download?force=true&w=640"
+    },
+    {
+      "id": 238,
+      "name": "Control de Velocidad de Ventilador de Refrigerante",
+      "price": 60,
+      "image": "https://unsplash.com/photos/7H7K3j22iFo/download?force=true&w=640"
+    },
+    {
+      "id": 239,
+      "name": "Interruptor de Flotador de Refrigerante",
+      "price": 25,
+      "image": "https://unsplash.com/photos/7H7K3j22iFo/download?force=true&w=640"
+    },
+    {
+      "id": 240,
+      "name": "Módulo de Control de Desescarche",
+      "price": 150,
+      "image": "https://unsplash.com/photos/FPYhLAmtp1M/download?force=true&w=640"
     }
   ]
 }

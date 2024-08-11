@@ -93,9 +93,9 @@ function POSPage() {
           ) : (
             <div className="row">
               {products.map((product, key) => (
-                <div key={key} className="col-lg-4 mb-4">
+                <div key={key} className="col-lg-4 mb-4 pos-item">
                   <div
-                    className="pos-item px-3 text-center border"
+                    className="px-3 text-center border"
                     onClick={() => addProductToCart(product)}
                   >
                     <p>{product.name}</p>
@@ -146,7 +146,7 @@ function POSPage() {
                             onClick={() => removeProduct(cartProduct)}
                           >
                             {" "}
-                            Remove{" "}
+                            Quitar{" "}
                           </button>
                         </td>
                       </tr>
